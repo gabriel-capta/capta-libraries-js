@@ -1,0 +1,26 @@
+{
+  "name": "capta-libraries-js",
+  "version": "1.0.0",
+  "description": "Capta Libraries JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-capta/capta-libraries-js.git"
+  },
+  "keywords": [
+    "Libs",
+    "JavaScript"
+  ],
+  "author": "Gabriel Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-capta/capta-libraries-js/issues"
+  },
+  "homepage": "https://github.com/gabriel-capta/capta-libraries-js#readme",
+  "dependencies": {
+    "mongodb": "^4.5.0"
+  }
+}
