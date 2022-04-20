@@ -2,7 +2,10 @@
   "name": "capta-libraries-js",
   "version": "1.0.0",
   "description": "Capta Libraries JS",
-  "main": "index.js",
+  "main": "./lib/capta-library.js",
+  "bin": {
+    "capta-libraries-js": "bin/capta-module.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -84,3 +84,4 @@ Update document node code:
     const entity = await repository.collection('colection.name').node('data.email').update(entity, '60182965d6ff71150043ddc5');
 
 ```
+
