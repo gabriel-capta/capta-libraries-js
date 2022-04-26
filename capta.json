@@ -1,0 +1,7 @@
+{
+    "repository": {
+        "client": "mongodb", 
+        "connectionString": "mongodb+srv://admin:Capta2022@cluster0.zvrhh.mongodb.net/capta", 
+        "debug":true
+    }
+}
