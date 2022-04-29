@@ -10,8 +10,8 @@ var readTest = async function (){
     const entity =  await repository.collection('test-collection').insert({test: 'capta-libraries-js', date: new Date()});
     //const user = await repository.get('605cd51522606db9ca650e64');
 
-    const logger = new Logger();
-    logger.log(entity);
+    
+    Logger.log(entity);
     
 
 }();
